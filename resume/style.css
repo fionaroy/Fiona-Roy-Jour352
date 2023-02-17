@@ -20,5 +20,20 @@ strong {
     color:#33485e;
     text-transform: uppercase;
     text-align: center;
+    font-size: 2em;
+}
+
+/* Fiona */
+h2 {
     font-size: 1.5em;
+    text-transform: uppercase;
+    background-color:#33485e;
+    color:white;
+    font-weight: 400;
+}
+
+/* Fiona */
+h3 {
+    font-weight: 600;
+    font-size: 2em;
 }
