@@ -7,7 +7,7 @@ BODY {
     font-weight: 400;
 }
 
-/* Fiona */
+/* Banner name at top */
  h1 {
  font-size: 3.5em;
  text-transform: uppercase;
@@ -15,7 +15,7 @@ BODY {
  text-align: center;
 }
 
-/* Fiona */
+/* Career title */
 strong {
     color:#33485e;
     text-transform: uppercase;
@@ -23,7 +23,7 @@ strong {
     font-size: 2em;
 }
 
-/* Fiona */
+/* Section Titles */
 h2 {
     font-size: 1.5em;
     text-transform: uppercase;
@@ -32,8 +32,21 @@ h2 {
     font-weight: 400;
 }
 
-/* Fiona */
+/* Job Titles */
 h3 {
     font-weight: 600;
     font-size: 2em;
+}
+
+/* Location of Job */
+h4 {
+    font-weight: 400;
+    font-size: 1.5em;
+}
+
+/* Date of Job */
+h5 {
+    font-weight: 400;
+    font-style: italic; 
+    font-size: 1em;
 }
