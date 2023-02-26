@@ -7,6 +7,12 @@ BODY {
     font-weight: 400;
 }
 
+#container {
+    width:100%;
+    max-width:1200px;
+    margin:0 auto;
+}
+
 /* Banner name at top */
  #name {
  font-size: 3.5em;
@@ -28,16 +34,22 @@ strong {
 }
 
 /* Section Titles */
-h2 {
+.sectionheader {
     font-size: 1.5em;
     text-transform: uppercase;
     background-color:#33485e;
     color:white;
     font-weight: 400;
+    margin-top:20px;
+    margin-bottom:10px;
+    margin-right:0;
+    margin-left:0;
+    width:70%;
+    min-width:300px;
 }
 
 /* Job Titles */
-h3 {
+.jobtitle {
     font-weight: 600;
     font-size: 2em;
 }
