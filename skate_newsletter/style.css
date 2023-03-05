@@ -1,13 +1,25 @@
+.navbar-brand {
 
+}
 
 h1 {
     font-family:'Times New Roman', Times, serif;
 }
 
-button {
-    font-family:'Times New Roman', Times, serif;
-}
-
 h2 {
     font-family:'Times New Roman', Times, serif
+}
+
+h3 {
+
+}
+
+.btn {
+    font-family:'Times New Roman', Times, serif;
+    margin-top:25px;
+    text-align:center;
+}
+
+.col {
+    text-align:center;
 }
