@@ -1,21 +1,26 @@
 .navbar-brand {
-
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Space Mono', monospace;  
 }
 
 h1 {
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Space Mono', monospace;
 }
 
 h2 {
-    font-family:'Times New Roman', Times, serif
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Space Mono', monospace;
 }
 
 h3 {
-
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Space Mono', monospace;
 }
 
 .btn {
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Space Mono', monospace;
     margin-top:25px;
     text-align:center;
 }
@@ -24,6 +29,15 @@ h3 {
     text-align:center;
 }
 
+.row {
+    padding-bottom:50px;
+}
+
 i {
     font-size: 3em;
+}
+
+@media only screen and (max-width: 500px) {
+    h2 padding-top:50px;
+    
 }
