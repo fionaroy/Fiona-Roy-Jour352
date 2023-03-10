@@ -1,14 +1,26 @@
 #content {
     margin: 0 auto;
-    width: 900px;
+    width: 600px;
 }
 
 body {
     margin: 0 auto;
 }
 
+.headline {
+    font-size: 14px;
+    font-family: 'Helvetica', sans-serif;
+}
+
+#byline {
+    font-family: 'Helvetica', sans-serif;
+    font-size: 14px;
+    font-style: italic;
+}
+
 p {
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Georgia', serif;
+    font-size: 13px;
 }
 
 .topper {
@@ -30,3 +42,10 @@ p {
     opacity: 0.6;
     font-size:40px;
 }
+
+
+.articleimages {
+    text-align: center;
+}
+
+@media only screen and (max-width: 500px)
