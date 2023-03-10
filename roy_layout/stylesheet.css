@@ -3,6 +3,10 @@
     width: 900px;
 }
 
+body {
+    margin: 0 auto;
+}
+
 p {
     font-family:'Times New Roman', Times, serif;
 }
@@ -11,6 +15,10 @@ p {
     position: relative;
     text-align: center;
     color: black;
+}
+
+.topperimage {
+    max-height:400px;
 }
 
 .centered {
