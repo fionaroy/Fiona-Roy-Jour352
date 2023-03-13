@@ -1,0 +1,15 @@
+/* css for reg. styling*/
+
+body {
+    margin: 0 auto;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+
+.topimage {
+    position: center;
+    width:1280px;
+    height:460px;
+    margin:0 auto;
+}
+
