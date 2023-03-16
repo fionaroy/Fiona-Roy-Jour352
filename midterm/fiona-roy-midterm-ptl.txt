@@ -3,42 +3,61 @@ Questions:
 1. In the sentence below, put in the necessary code that would allow users to click on the word UMD and open UMD's homepage in a new browser:
     UMD has the greatest students in the world.
 
+    <p><a href="https://www.umd.edu/">UMD</a> has the greatest students in the world.</P>
 
 2. In which main "area" or "section" of an HTML page would you put meta tags, a webpage title and a stylesheet link?
-
+    The area/section of an HTML page that you would put a meta tag, a webpage title and a stylesheet link is within the head tag that is nested inside of the html tag.
 
 3. Write out the basic structure of an HTML page, putting the basic tags in the correct position. (Note: you don't need to connect it to a stylesheet or include DIV tags or anything like that).
 
+<DOCTYPE! html>
+<html lang="en">
+    <head>
+        <title>
+        </title>
+        <link>
+        </link>
+    </head>
+    <body>
+    </body>
+</html>
 
 4. There are two main "areas" or "sections" in the basic structure of an HTML page. In which area would you put a Bootstrap "row"?
-
+    You would put a Bootstrap 'row' not inside of the head tag, but inside of the body tag where all of the website content goes.
 
 5. Explain the purpose of using DIV tags.
-
+    The purpose of using DIV tags is the better seperate/target sepcific groups of information so that they can be modified in particular ways without having those modifiers adhere to all the other aspects/parts of the website. The DIV tag is a contianer, so it holds the information inside of it (but not seperating it from the webpage) so that that specific information can be easily styled by class or id tags inside of css.
 
 6. In the space below, put one DIV tag with an id of content_row and a second DIV tag with a class of headline.
-
+    <div id="content_row"></div>
+    <div class="headline"></div>
 
 7. In the space below, put one DIV tag with a class of peaches and an ID of spaghetti.
-
+    <div class="peaches"></div>
+    <div id="spaghetti"></div>
 
 8. In the space below write the correct CSS code to target a <p> tag. Make the size 5em and the background orange (#FFA500).
-
+    p {
+        font-size:5em;
+        background-color:#FFA500;
+    }
 
 9. What HTML tag does this class use to make text bold? Just give me the name of the tag, you don't have to write out all the code.
-
+    The HTML tag that this class uses to make text bold is the strong tag. 
 
 10. What is the purpose of using a media query?
-
+    The purpose of using a media query is to make sure that different sizes of the webpage either on computer or another digital device have proper viewing settings. As such, media query's allow you to apply specific chosen CSS styles to different types of devices or browser dimensions. 
 
 11. What is the main difference between a serif and a sans-serif font?
-
+    A serif font is one that has decorative 'tails' or 'feet' at the ends/tips of the letters - more old-fashioned look to mimic old scrawling script. Sans-serif is a more modern font without these 'tails' and 'feet.'
 
 12. Which of the following is a hexadecimal code?
     #FFCC33
     123,543,242
     101010101
     - 213
+
+    #FFCC33 is a hexadecimal code.
 
 
 13. Find the error(s) in this CSS rule and rewrite correctly.
@@ -47,5 +66,15 @@ Questions:
     font-style italic;
     color: #red;
     text-transform: uppercase
+    font-weight:400;
+    }
+
+    rewritten:
+
+    .midterm_rule {
+    font-size:1.5em;
+    font-style:italic;
+    color:#red;
+    text-transform:uppercase;
     font-weight:400;
     }
