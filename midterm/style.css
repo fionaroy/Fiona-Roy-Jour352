@@ -1,3 +1,4 @@
+/*shape*/
 #information {
     margin: 0 auto;
     width: 500px;
@@ -6,6 +7,7 @@
 body {
     margin: 0 auto;
 }
+/*end shape*/
 
 /*masthead*/
 .topper {
@@ -29,10 +31,18 @@ body {
 }
 /*end masthead*/
 
+/*image style*/
 .articleimages {
     text-align: center;
     padding-top: 20px;
 }
+
+.graphic {
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom:15px;
+}
+/*end image style*/
 
 /*body words*/
 .headline {
@@ -78,8 +88,10 @@ blockquote {
 }
 /*end body words*/
 
+/*dimensions*/
 @media screen and (max-width: 500px) {
     p {
         font-size: 16px;
     }  
 }
+/*end dimensions*/
