@@ -1,5 +1,11 @@
 /* css for reg. styling*/
 
+.container {
+    margin:0 auto;
+    padding:0;
+    border:0;
+}
+
 body {
     margin: 0 auto;
     font-family:Georgia, 'Times New Roman', Times, serif
