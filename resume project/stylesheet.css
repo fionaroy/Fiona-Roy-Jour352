@@ -3,6 +3,9 @@
 /* navbar edits */
 .container-fluid {
     background-color:rgb(59, 88, 104); 
+    border:0px;
+    margin:0 auto;
+    padding-right:0;
 }
 
 .navbar {
@@ -16,9 +19,8 @@
 
 .nav-link  {
    color:aliceblue;
+   text-align:left;
+   display:inline;
 }
 /* navbar edits end */
 
-@media screen and (max-width:500px;) {
-    
-}
