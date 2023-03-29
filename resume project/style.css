@@ -23,9 +23,25 @@ body {
     text-align:center;
     margin:0 auto;
 }
+/*end picture*/
 
+/*word edits*/
 p {
   padding-left:80px;
   padding-right:80px; 
+}
 
+.footer {
+    background-color:rgb(59, 88, 104);
+}
+
+h1 {
+    font-size:20px;
+    color:aliceblue;
+    background-color:rgb(59, 88, 104);
+    margin:0px;
+}
+
+.contactlist {
+    color:aliceblue;
 }
