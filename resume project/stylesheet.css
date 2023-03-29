@@ -17,10 +17,17 @@
     color:aliceblue;
 }
 
+.navbar-nav li {
+    display:inline;
+    list-style-type:none;
+}
+
 .nav-link  {
    color:aliceblue;
    text-align:left;
-   display:inline;
 }
 /* navbar edits end */
 
+@media screen and (max-width:800px;) {
+    
+}
