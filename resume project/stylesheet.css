@@ -11,6 +11,7 @@
 .navbar {
     padding:0;
     width:auto 0;
+    border:0;
 }
 
 .navbar-brand {
@@ -31,3 +32,5 @@
 @media screen and (max-width:800px;) {
 
 }
+
+navbar-expand-lg bg-body-tertiary
