@@ -29,6 +29,24 @@
 }
 /* navbar edits end */
 
+
+/*contact*/
+h1 {
+    padding-top:10px;
+}
+
+.col-md-3 {
+    display:inline;
+    padding-right:15px;
+    padding-left:15px;
+}
+
+.copyright {
+    padding-top:10px;
+    color:aliceblue;
+}
+/*end contact*/
+
 @media screen and (max-width:800px;) {
 
 }
