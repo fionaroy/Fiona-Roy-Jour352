@@ -7,18 +7,23 @@
 }
 
 body {
-    margin: 0 auto;
+    margin:0 auto;
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 /*whole edits end*/
 
 /*picture*/
 .portriat {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    width: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 450px;
     display: block;
     text-align:center;
     margin:0 auto;
 }
 
+p {
+  padding-left:80px;
+  padding-right:80px; 
+   
+}
