@@ -31,11 +31,6 @@ p {
   padding-right:80px; 
 }
 
-.footer {
-    background-color:rgb(59, 88, 104);
-    text-align:center;
-}
-
 h1 {
     font-size:20px;
     color:aliceblue;
@@ -43,6 +38,46 @@ h1 {
     margin:0px;
 }
 
+.col-lg-4 {
+    display:inline;
+}
+
+.sectionheader {
+    background-color:white;
+    color:rgb(59, 88, 104);;
+    padding-top:40px;
+    padding-left:80px;
+    font-size:25px;
+}
+
+.jobtitle {
+    padding-left:80px;
+    padding-right:80px;
+    padding-bottom:10px;
+    font-size:20px;
+}
+
+.organization {
+    padding-left:80px;
+    padding-right:80px;
+    padding-bottom:5px;
+}
+
+.date {
+    padding-left:80px;
+    padding-right:80px;
+    padding-bottom:5px;
+    font-style:italic;
+}
+/*end word edits*/
+
+/*footer*/
 .contactlist {
     color:aliceblue;
 }
+
+.footer {
+    background-color:rgb(59, 88, 104);
+    text-align:center;
+}
+/*end footer*/
