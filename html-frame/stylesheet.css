@@ -38,6 +38,7 @@ p {
 .caption {
     color:darkgrey;
     font-size:14px;
+    text-align:center;
 }
 
 .imagebox {
@@ -52,6 +53,11 @@ h4 {
     background-color:black;
     font-family:'Montserrat', sans-serif; 
     margin-bottom:0;
+}
+
+.col-md-4 {
+    padding-top:10px;
+    padding-bottom:10px;
 }
 
 .footer {
