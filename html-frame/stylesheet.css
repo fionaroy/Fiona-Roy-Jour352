@@ -42,7 +42,7 @@ p {
 }
 
 .imagebox {
-    
+
 }
 
 h4 {
@@ -58,6 +58,7 @@ h4 {
 .col-md-4 {
     padding-top:10px;
     padding-bottom:10px;
+    text-align:center;
 }
 
 .footer {
