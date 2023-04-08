@@ -85,3 +85,52 @@ h1 {
     text-align:center;
 }
 /*end footer*/
+
+/* css for bootstrap */
+
+/* navbar edits */
+.container-fluid {
+    background-color:rgb(59, 88, 104); 
+    border:0px;
+    margin:0 auto;
+    padding-right:0;
+}
+
+.navbar {
+    padding:0;
+    width:auto 0;
+    border:0;
+}
+
+.navbar-brand {
+    color:aliceblue;
+}
+
+.navbar-nav li {
+    display:inline;
+    list-style-type:none;
+}
+
+.nav-link  {
+   color:aliceblue;
+   text-align:left;
+}
+/* navbar edits end */
+
+
+/*contact*/
+h1 {
+    padding-top:10px;
+}
+
+.col-md-3 {
+    display:inline;
+    padding-right:15px;
+    padding-left:15px;
+}
+
+.copyright {
+    padding-top:10px;
+    color:aliceblue;
+}
+/*end contact*/
