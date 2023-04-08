@@ -132,5 +132,8 @@ h1 {
 .copyright {
     padding-top:10px;
     color:aliceblue;
+    height:50px;
+    min-height: 50px;
+    padding-top:20px;
 }
 /*end contact*/
