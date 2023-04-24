@@ -59,10 +59,14 @@ body {
     font-family: 'Poltawski Nowy', serif;
 }
 
+.redd {
+    color:rgb(186, 10, 10);
+}
+
 .byline {
-    font-size:1em;
-    text-transform:uppercase;
-    text-align:center;
+    font-size:16px;
+    color:rgb(46, 45, 45);
+    text-align:left;
     font-family: 'Poltawski Nowy', serif;
 }
 
@@ -104,6 +108,13 @@ h1 {
     padding-bottom:15px;
 }
 /*end captionings*/
+
+/*infographics*/
+.col-md-6 {
+    padding-top:15px;
+    padding-bottom:15px;
+}
+/*end infographics*/
 
 /*pull quote*/
 .quote {
