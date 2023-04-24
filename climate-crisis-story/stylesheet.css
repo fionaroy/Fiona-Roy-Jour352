@@ -32,7 +32,7 @@ body {
     position:absolute;
     width:100%;
     top:20%;
-    background:black;
+    background:rgb(186, 10, 10);
     opacity:.7;
 }
 
@@ -71,7 +71,7 @@ body {
 }
 
 p {
-    font-family:georgia, serif;
+    font-family:Arial, Helvetica, sans-serif;
     line-height:180%;
 }
 
@@ -93,6 +93,7 @@ h1 {
     padding-top:15px;
     color:rgb(125, 108, 108);
     font-size:12px;
+    font-family: 'Poltawski Nowy', serif;
 }
 
 .widecaption {
@@ -115,8 +116,7 @@ h1 {
     font-family:georgia, serif;
     line-height:180%;
     color:rgb(107, 104, 104);
-    font-size:12px;
-    padding-bottom:15px;
+    font-size:14px;
 }
 /*end captionings*/
 
