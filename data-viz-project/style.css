@@ -97,7 +97,7 @@ h1 {
 }
 
 .moreonwriter {
-    font-family:georgia, serif;
+    font-family:'Playfair Display', serif;
     line-height:180%;
     color:rgb(107, 104, 104);
     font-size:14px;
@@ -110,6 +110,28 @@ h1 {
     padding-bottom:15px;
 }
 /*end infographics*/
+
+/*pull quote*/
+.quote {
+    font-family: 'Playfair Display', serif;
+    color:rgb(76, 76, 196);
+    font-size:2em;
+    font-weight:700;
+    text-align:center;
+    font-style:italic;
+    padding: 15px 0px 15px 0px;
+    border-top:1px solid black;
+    border-bottom:1px solid black;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+
+.attribution {
+    font-family: 'Playfair Display', serif;
+    font-size:.5em;
+    font-weight:500;
+}
+/*end pull quote*/
 
 /*footer*/
 .footer {
