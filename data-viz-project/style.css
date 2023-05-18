@@ -234,5 +234,9 @@ h4 {
     .hero-sub {
         font-size:1em;
     }
+
+    p {
+       font-size:18px; 
+    }
 }
 
