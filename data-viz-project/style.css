@@ -4,6 +4,10 @@ body {
 }
 
 /*splash image*/
+.nav-link {
+    color:white
+}
+
 .hero-image {
     width:100%;
 }
@@ -59,8 +63,48 @@ p {
     line-height:180%;
 }
 
-.chapterheadline {
-    font-size:25px;
+#scrollspyHeading1 {
+    font-size:35px;
+    background-color:white;
+    color:black;
+    text-align:left;
+    padding-bottom:25px;
+    font-family: 'Playfair Display', serif;
+}
+
+#scrollspyHeading2 {
+    font-size:35px;
+    background-color:white;
+    color:black;
+    text-align:left;
+    padding-bottom:25px;
+    font-family: 'Playfair Display', serif;
+}
+
+#scrollspyHeading3 {
+    font-size:35px;
+    background-color:white;
+    color:black;
+    text-align:left;
+    padding-bottom:25px;
+    font-family: 'Playfair Display', serif;
+}
+
+#scrollspyHeading4 {
+    font-size:35px;
+    background-color:white;
+    color:black;
+    text-align:left;
+    padding-bottom:25px;
+    font-family: 'Playfair Display', serif;
+}
+
+#scrollspyHeading5 {
+    font-size:35px;
+    background-color:white;
+    color:black;
+    text-align:left;
+    padding-bottom:25px;
     font-family: 'Playfair Display', serif;
 }
 
@@ -169,3 +213,4 @@ h4 {
         font-size:1em;
     }
 }
+
