@@ -140,6 +140,28 @@ h1 {
     width:100%;
 }
 
+.pictures {
+    color:darkgrey;
+    font-size:14px;
+    text-align:center;
+    float: right;
+    width:55%;
+    padding-left:15px;
+}
+
+.captions {
+    margin:0 auto;
+    width:55%;
+    float: right;
+    margin-right:auto;
+    display:block;
+    padding-top:15px;
+    padding-left:15px;
+    color:rgb(125, 108, 108);
+    font-size:12px;
+    font-family: 'Playfair Display', serif;
+}
+
 .moreonwriter {
     font-family:'Playfair Display', serif;
     line-height:180%;
